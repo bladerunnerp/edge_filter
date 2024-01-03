@@ -27,3 +27,10 @@ Or use the included Jupyter Notebook
 ```bash
 jupyter notebook edge_filter.ipynb
 ```
+
+## Example
+
+![old fancy car](examples/old-fancy-car.jpg)
+![processed](examples/old-fancy-car-processed.jpg)
+![green lizard](examples/green_lizard.jpg)
+![processed](examples/green_lizard-processed.jpg)
