@@ -29,10 +29,15 @@ jupyter notebook edge_filter.ipynb
 ```
 
 ## Example
-
-![old fancy car](examples/old-fancy-car.jpg)
-![processed](examples/old-fancy-car-processed.jpg)
-![parrot](examples/parrot.jpg)
-![processed](examples/parrot-processed.png)
-![green lizard](examples/green_lizard.jpg)
-![processed](examples/green_lizard-processed.jpg)
+<div>
+    <img alt="old fancy car" src="examples/old-fancy-car.jpg" width="250">
+    <img alt="processed" src="examples/old-fancy-car-processed.jpg" width="250">
+</div>
+<div>
+    <img alt="parrot" src="examples/parrot.jpg" width="250">
+    <img alt="processed" src="examples/parrot-processed.png" width="250">
+</div>
+<div>
+    <img alt="green lizard" src="examples/green_lizard.jpg" width="250">
+    <img alt="processed" src="examples/green_lizard-processed.jpg" width="250">
+</div>
